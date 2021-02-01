@@ -1,4 +1,4 @@
-# Pixel-and-image-classifications-on-a-Sentinel-2-time-series
+# Pixel-and-Image-Machine-Learning-classifications-of-Sentinel-2-satellite-images
 
 This project was created as a final project during my master's studying at Potsdam University for the subject of "Advanced Topics of Data Analysis and Programming".
 
